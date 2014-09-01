@@ -28,9 +28,14 @@ Lataa JDK:n uusin versio "Java SE Development Kit 8u20" (tai uudempi) osoitteest
 
 ### Asenna tmc-netbeans
 
+Lataa käyttöjärjestelmällesi sopiva versio
+
 * [Linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)
 * [MAC](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)
 * [Windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)
+
+Asennus tapahtuu windowsissa ja OSXssä kuin minkä tahansa muunkin ohjelman asennus.
+Linuxilla voit joutua antamaan ohjelmalle suoritus oikeudet (joko `chmod +x tmc-netbeans_hy_tmcbeans-linux.sh` tai klikkaamalla sitä hiiden oikealla, valitsemalla Properties ja sieltä ruksaa "Allow executing file as a program". Tämän jälkeen riippuen käyttöjärjestelmästä, joko tuplaklikkaa asennuspakettia ja se aukeaa, tai suorita se komentoriviltä `./tmc-netbeans_hy_tmcbeans-linux.sh`.
 
 Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `s2014-ohpe`.
 
