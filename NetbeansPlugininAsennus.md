@@ -1,78 +1,34 @@
-# Ilmoittautuminen
+### TMC pluginin asennus olemassa olevaan NetBeanssiin. Tee näin pajassa
+Avaa NetBeans. Varmista, että versio, jota käytät on vähintään 8.0 (7.4 ja aiemmat voivat myös toimia)
 
-1. Mene osoitteeseen http://tmc.mooc.fi/hy
-2. Klikkaa oikeassa yläkulmassa linkkiä "Sign up"
-3. Käytä käyttäjätunnuksenasi (Username) opiskelijanumeroasi (opiskelijanumerosi löydät opiskelijakortista ja [weboodin vasemmasta yläreunasta](weboodi.helsinki.fi/hy/)). Muuten suorituksesi ei rekisteröidy!  
-3.1. Mikäli loit tunnuksen väärällä nimellä, kerro siitä pajassa, voimme uudelleennimetä tunnuksen tai IRCssä Jamo:lle  (~jamo@irc.jamo.io @IRCnet). 
-4. Syötä muut tiedot ja paina nappia Sign up.Muista salasanasi.
-5. Asenna TMC-plugin NetBeanssiin (laitoksella) tai tmc-bundle kotikoneelle
+Mene Tools -> Plugins
 
+![NB Plugin -> Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-tools-plugins.jpg "Plugin -> Settings")
 
-# TMC palvelimesta lyhyesti
+Valitse välilehti Settings ja valitse Add.
+Aseta nimeksi TMC
+Url to http://update.testmycode.net/tmc-netbeans_hy/updates.xml
 
-Tehtävät palautetaan TestMyCode-järjestelmään joka tarkastaa palautukset automaattisesti. TMC myös tarjoaa opiskelijoille tehtäväpohjat ja JUnit-testejä.
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings-add-tmc-update.jpg "Plugin -> Settings -> Settings")
 
+Valitse välilehti Available Plugins, ja etsi sieltä tekstillä "TMC". Haulla pitäisi löytyä vain yksi tulos. Ruksaa checkboxia sen riviltä ja valitse install
 
-1. Luo tunnus osoitteeseen http://tmc.mooc.fi/hy .
-2. Asenna tmc-plugin tai TMC-netbeans allaolevien ohjeiden mukaisesti (joko plugin olemassa olevaan netbeanssiin tai koko netbeans).
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings-add-tmc-update.jpg "Plugin -> Settings -> Settings")
 
-## TMC-netbeanssin asennus
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin1.jpg "Plugin -> Settings -> Settings")
 
-### Jos käytät laitoksen koneita, seuraa seuraavaa ohjetta:
+Valitse Next
 
-Käytä Ubuntua. eli Linuxia. Jos kone mihin kirjaudut on Windowsissa, käynnistä se uudestaan ja valitse Ubuntu. Klikkaa seuraavaa linkkiä hiiren oikealla näppäimellä, ja valitse "Save Location As.." (tai Save as.. tai Save Link As...)
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin2.jpg "Plugin -> Settings -> Settings")
 
-* [Linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)
+Hyväksy käyttöehdot
 
-Tiedosto ladataan oletuksena käyttäjätunnuksesi Downloads-hakemistoon. 
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin3.jpg "Plugin -> Settings -> Settings")
 
-Klikkaa vasemmassa ylälaidassa olevaa palloa, ja kirjoita aukeavaan ikkunaan Home. Valitse Home folder. Klikkaa kansiossa Downloads-kansiota, jotta pääset kansioon. Klikkaa tämän jälkeen oikealla hiirennäppäimellä tiedostoa `tmc-netbeans_hy_tmcbeans-linux.sh`, valitse avautuvasta valikosta Properties. Kun eteesi avautuu ikkuna, valitse Permissions, ja ruksaa "Allow executing file as a program" valituksi. 
+Klikkaa continue, kun asennus kertoo, että plugineja ei ole allekirjoitettu
 
-Klikkaa tämän jälkeen vasemmassa yläkulmassa olevaa palloa, ja etsi ohjelma nimeltä "Terminal". Käynnistä se. Mene Downloads-kansioon kirjoittamalla "cd Downloads". 
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin4.jpg "Plugin -> Settings -> Settings")
 
-tunnus@kone:~$ cd Downloads/
-tunnus@kone:~/Downloads$ 
+Kun asennus on valmis, käynnistä NetBeans uudelleen
 
-Kirjoita tämän jälkeen "./tmc-netbeans_hy_tmcbeans-linux.sh" ja paina enter. Asennusohjelman pitäisi käynnistyä.
-
-tunnus@kone:~/Downloads$ ./tmc-netbeans_hy_tmcbeans-linux.sh 
-
-Seuraa ohjeita. 
-
-### Jos teet kotona, seuraa seuraavaa ohjetta:
-Mikäli NetBeans ja/tai TMC-plugin tuottaa haasteita, suosittelemme asentamaan valmiin NetBeans with TMC bundlen, jossa NetBeans ja TMC tulevat valmiina. Saat käyttöjärjestelmällesi sopivan version alta. Ohjelman asennus tapahtuu aivan kuten NetBeanssin asennus.
-
-### Asenna Java JDK (jos ei ole jo asennettuna)
-
-Suosittelemme kurssilla käytettävän Java 8 mutta myös java 7llä voi kurssille osallistua. Katso asennusohjeet alta. Java on saatavissta kaikille nykyaikaisille käyttöjärjestelmille.
-Lataa JDK:n uusin versio "Java SE Development Kit 8u20" (tai uudempi) osoitteesta http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html . Jos koneesi on Linux. ks myös maininta alla.
-
-* Windowsissa asentaminen onnistuu, kuten minkä tahansa muun Windows-ohjelman asentaminen.
-* Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM: Tarvitset Mac OS X 10.7.3:n (Lion) tai uudemman OS X (vanhemmilla joudut käyttämään vanhempaa javaa, google tai assari auttaa)
-* Useimmissa Linux-järjestelmissä tuoreen Javan saat myös suoraan paketienhallinnasta. Debian-pohjaisissa Linuxeissa (esim. Ubuntu) riittää paketin openjdk-7-jdk asentaminen. Voit asentaa sen komentoriviltä komennolla `apt-get install openjdk-7-jdk -y`, tai Synaptic Package managerin avulla. Mikäli tuoretta Javaa ei pakettienhallinnasta löydy, tapahtuu asentaminen purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
-
-
-
-
-### Asenna tmc-netbeans
-
-* [Linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)
-* [MAC](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)
-* [Windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)
-
-Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `s2014-ohpe`.
-
-
-## NetBeansin käynnistys ja asetusten asettaminen
-
-Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetus ikkunan pitäisi aueta. Saat sen tarvittaessa avattua: NetBeanssissa TMC -> Settings
-
-![TMC plugins settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings.jpg "TMC plugins settings")  
-
-Käytä tunnuksina äsken luomiasi tunnuksia.  
-Tarkista, että palvelimen osoite on http://tmc.mooc.fi/hy  
-Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `s2014-ohpe`  
-
-Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
-
-Valitse ok, ja voit ladata uusia tehtäviä, mikäli niitä on saatavilla.
+![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin5.jpg "Plugin -> Settings -> Settings")
