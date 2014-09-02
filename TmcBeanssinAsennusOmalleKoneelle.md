@@ -34,7 +34,21 @@ Lataa käyttöjärjestelmällesi sopiva versio
 * [MAC](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)
 * [Windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)
 
-Asennus tapahtuu windowsissa ja OSXssä kuin minkä tahansa muunkin ohjelman asennus.
+#### Asennus Windowsille
+
+Asennus tapahtuu windowsissa kuten minkä tahansa muun ohjelman asennus; lataat .exe tiedoston (kts. linkit yllä). Kun tiedosto on ladattu, suorista se tuplaklikkaamalla sitä.
+Seuraa asennus wizardia ja hyväksy tarvittaessa käyttöehdot.
+
+#### Asennus OSXlle
+
+Asennus tapahtuu OSXssä pitkälti kuin minkä tahansa muunkin ohjelman asennus.
+Ladattuasi ylläolevista linkeistä asennuspaketin (.tar.gz) tuplaklikkaa sitä, niin OSX purkaa 'zip'istä ohjelman jolla asennus hoituu.
+Tämän jälkeen tuplaklikkaa äsken syntynyttä tiedostoa (TODO tmcbeans installer.app tjsp) 
+Seuraa asennus wizardia ja hyväksy tarvittaessa käyttöehdot.
+
+
+#### Asennus Linuxille 
+
 Linuxilla voit joutua antamaan ohjelmalle suoritus oikeudet (joko `chmod +x tmc-netbeans_hy_tmcbeans-linux.sh` tai klikkaamalla sitä hiiden oikealla, valitsemalla Properties ja sieltä ruksaa "Allow executing file as a program". Tämän jälkeen riippuen käyttöjärjestelmästä, joko tuplaklikkaa asennuspakettia ja se aukeaa, tai suorita se komentoriviltä `./tmc-netbeans_hy_tmcbeans-linux.sh`.
 
 Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `s2014-ohpe`.
