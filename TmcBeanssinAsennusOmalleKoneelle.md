@@ -46,6 +46,7 @@ Ladattuasi ylläolevista linkeistä asennuspaketin (.tar.gz) tuplaklikkaa sitä,
 Tämän jälkeen tuplaklikkaa äsken syntynyttä tiedostoa (TODO tmcbeans installer.app tjsp) 
 Seuraa asennus wizardia ja hyväksy tarvittaessa käyttöehdot.
 
+Mikäli asennusohjelman käynnistys ei tuplaklikkaamalla onnistu, kokeile avata se klikkaamalla sitä 'hiiren oikealla' tai klikkaamalla sitä pitäen option tai control näppäintä pohjassa, ja valitsemalla avautuvasta valikosta Open/Avaa
 
 #### Asennus Linuxille 
 
