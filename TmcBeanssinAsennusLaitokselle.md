@@ -5,7 +5,7 @@
 3. Käytä käyttäjätunnuksenasi (Username) opiskelijanumeroasi (opiskelijanumerosi löydät opiskelijakortista ja [weboodin vasemmasta yläreunasta](http://weboodi.helsinki.fi/hy/)). Muuten suorituksesi ei rekisteröidy!
 3.1. Mikäli loit tunnuksen väärällä nimellä, kerro siitä pajassa, voimme uudelleennimetä tunnuksen tai IRCssä Jamo:lle  (~jamo@irc.jamo.io @IRCnet).
 4. Syötä muut tiedot ja paina nappia Sign up. Muista salasanasi.
-5. Asenna TMC-NetBeans bundle laitoksen koneelle. Jos koneellasi on jo uusi NetBeans versio 8 tai parempi, voit asentaa vain TMC liitännäisen siihen. Siirry seuraamaan ohjetta [täältä](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/NetbeansPlugininAsennus.md).
+5. Asenna TMC-NetBeans bundle laitoksen koneelle. Jos koneellasi on jo uusi NetBeans versio 8 tai parempi, voit asentaa vain TMC liitännäisen siihen. Siirry seuraamaan ohjetta [täältä](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/NetbeansPlugininAsennusOlemassaOlevaanNetBeansiin.md).
 
 # TMC palvelimesta lyhyesti
 
