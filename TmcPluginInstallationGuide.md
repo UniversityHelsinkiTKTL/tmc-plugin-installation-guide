@@ -53,15 +53,15 @@ In most Linux distributions you get JDK directly from the packet management. In 
 ### INSTALLING NETBEANS THE EASY WAY, for own computer
 Download the NetBeans/TMC-bundle suitable for your computer by right clicking and selecting "save link as":
 
-[windows](http://update.testmycode.net/tmc-netbeans_hy/tmc-netbeans_hy-windows.exe)    
-[mac](http://update.testmycode.net/tmc-netbeans_hy/tmc-netbeans_hy-macosx.tgz)    
-[linux](http://update.testmycode.net/tmc-netbeans_hy/tmc-netbeans_hy-linux.sh)    
+[windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)    
+[mac](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)    
+[linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)    
 
 Do the installation
 
 In Windows, the installation is done by opening the downloaded exe-file  
 In Linux, the insallation is done by executing the installation script by giving the command ./tmc-netbeans_mooc-linux.sh in the directory where the file is located  
-The script can be executed only if it has been given right permissions eg. with command chmod o+x tmc-netbeans_mooc-linux.sh  
+The script can be executed only if it has been given right permissions eg. with command chmod o+x tmc-netbeans_mooc-linux.sh  http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe
 In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting properties/permissions/allowin execute file as program. After doing this, the script can be executed by right clicking it.    
 
 In Mac, the installation is done by extracting the contents of the downloaded package and then running the Netbeans with TMC Installer.app. The installer installs TMC-NetBeans to your computer. After the installation, the program is found from the Applications-folder.  
