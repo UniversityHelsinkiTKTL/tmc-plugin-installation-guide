@@ -22,7 +22,7 @@ Java on saatavissa kaikille nykyaikaisille käyttöjärjestelmille.
 Lataa JDK:n uusin versio "Java SE Development Kit 8u20" (tai uudempi) osoitteesta http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html . Jos koneesi on Linux. kts myös maininta alla.
 
 * Windowsissa asentaminen onnistuu, kuten minkä tahansa muun Windows-ohjelman asentaminen.
-* Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM: Tarvitset Mac OS X 10.7.3:n (Lion) tai uudemman OS X (vanhemmilla joudut käyttämään vanhempaa javaa, Google tai assari auttaa)
+* Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM: Tarvitset Mac OS X 10.8:n (Mountain Lion) tai uudemman OS X version
 * Linuxissa asentaminen tapahtuu purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
 
 
