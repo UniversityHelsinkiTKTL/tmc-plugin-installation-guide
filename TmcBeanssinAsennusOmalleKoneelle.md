@@ -16,14 +16,14 @@ Tehtävät palautetaan TestMyCode-järjestelmään joka tarkastaa palautukset au
 
 ### Asenna Java JDK (jos ei ole jo asennettuna)
 
-Suosittelemme kurssilla käytettävän Java 8 mutta myös java 7:llä voi kurssille osallistua. Katso asennusohjeet alta.
-Java on saatavissta kaikille nykyaikaisille käyttöjärjestelmille.
+Tehtävien tekemiseen tarvitaan Java 8 tai uudempi. Katso asennusohjeet alta.
+Java on saatavissa kaikille nykyaikaisille käyttöjärjestelmille.
 
 Lataa JDK:n uusin versio "Java SE Development Kit 8u20" (tai uudempi) osoitteesta http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html . Jos koneesi on Linux. kts myös maininta alla.
 
 * Windowsissa asentaminen onnistuu, kuten minkä tahansa muun Windows-ohjelman asentaminen.
 * Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM: Tarvitset Mac OS X 10.7.3:n (Lion) tai uudemman OS X (vanhemmilla joudut käyttämään vanhempaa javaa, Google tai assari auttaa)
-* Useimmissa Linux-järjestelmissä tuoreen Javan saat myös suoraan paketienhallinnasta. Debian-pohjaisissa Linuxeissa (esim. Ubuntu) riittää paketin openjdk-7-jdk asentaminen. Voit asentaa sen komentoriviltä komennolla `apt-get install openjdk-7-jdk -y`, tai Synaptic Package managerin avulla. Mikäli tuoretta Javaa ei pakettienhallinnasta löydy, tapahtuu asentaminen purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
+* Linuxissa asentaminen tapahtuu purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
 
 
 ### Asenna tmc-netbeans
@@ -52,7 +52,7 @@ Mikäli asennusohjelman käynnistys ei tuplaklikkaamalla onnistu, kokeile avata 
 
 Linuxilla voit joutua antamaan ohjelmalle suoritus oikeudet (joko `chmod +x tmc-netbeans_hy_tmcbeans-linux.sh` tai klikkaamalla sitä hiiden oikealla, valitsemalla Properties ja sieltä ruksaa "Allow executing file as a program". Tämän jälkeen riippuen käyttöjärjestelmästä, joko tuplaklikkaa asennuspakettia ja se aukeaa, tai suorita se komentoriviltä `./tmc-netbeans_hy_tmcbeans-linux.sh`.
 
-Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `s2014-ohpe`.
+Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `k2015-ohpe`.
 
 
 ## NetBeansin käynnistys ja asetusten asettaminen
