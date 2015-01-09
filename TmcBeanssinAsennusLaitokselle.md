@@ -1,7 +1,7 @@
-# Ilmoittautuminen
+# Tunnuksen luominen tehtäväjärjestelmään (TMC)
 
-1. Mene osoitteeseen http://tmc.mooc.fi/hy
-2. Klikkaa oikeassa yläkulmassa linkkiä "Sign up"
+1. Mene osoitteeseen [http://tmc.mooc.fi/hy](http://tmc.mooc.fi/hy)
+2. Klikkaa oikeassa yläkulmassa olevaa kirjautumislinkkiä "Sign up"
 3. Käytä käyttäjätunnuksenasi (Username) opiskelijanumeroasi (opiskelijanumerosi löydät opiskelijakortista ja [weboodin vasemmasta yläreunasta](http://weboodi.helsinki.fi/hy/)). Muuten suorituksesi ei rekisteröidy!
   
   1. Mikäli loit tunnuksen väärällä nimellä, kerro siitä pajassa, voimme uudelleennimetä tunnuksen tai IRCssä Jamo:lle  (~jamo@irc.jamo.io @IRCnet).
@@ -11,7 +11,7 @@
 
 ## NetBeansin käynnistys ja asetusten asettaminen
 
-Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetus ikkunan pitäisi aueta. Saat sen tarvittaessa avattua: NetBeanssissa TMC -> Settings
+Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetusikkunan pitäisi aueta. Saat sen tarvittaessa avattua: NetBeanssissa TMC -> Settings
 
 ![TMC plugins settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings.jpg "TMC plugins settings")
 
