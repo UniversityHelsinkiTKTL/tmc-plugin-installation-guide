@@ -1,6 +1,6 @@
-# Ilmoittautuminen
+# Tunnuksen luominen tehtäväjärjestelmään (TMC)
 
-1. Mene osoitteeseen http://tmc.mooc.fi/hy
+1. Mene osoitteeseen [http://tmc.mooc.fi/hy](http://tmc.mooc.fi/hy)
 2. Klikkaa oikeassa yläkulmassa linkkiä "Sign up"
 3. Käytä käyttäjätunnuksenasi (Username) opiskelijanumeroasi (opiskelijanumerosi löydät opiskelijakortista ja [weboodin vasemmasta yläreunasta](http://weboodi.helsinki.fi/hy/)). Muuten suorituksesi ei rekisteröidy!
     1. Mikäli loit tunnuksen väärällä nimellä, kerro siitä pajassa, voimme uudelleennimetä tunnuksen tai IRCssä Jamo:lle  (~jamo@irc.jamo.io @IRCnet).
@@ -9,7 +9,7 @@
 
 # TMC palvelimesta lyhyesti
 
-Tehtävät palautetaan TestMyCode-järjestelmään joka tarkastaa palautukset automaattisesti. TMC myös tarjoaa opiskelijoille tehtäväpohjat ja automaattiset testit koodin oikeellisuuden tarkistamiseen.
+Test My Code tarjoaa tukea ohjelmointiin. Sen avulla ladataan viikoittaisia tehtäviä, tarkastetaan tehtäviä, sekä palautetaan tehtäviä.
 
 
 ## TMC-netbeanssin asennus
@@ -43,8 +43,8 @@ Seuraa asennus wizardia ja hyväksy tarvittaessa käyttöehdot.
 
 Asennus tapahtuu OSXssä pitkälti kuin minkä tahansa muunkin ohjelman asennus.
 Ladattuasi ylläolevista linkeistä asennuspaketin (.tar.gz) tuplaklikkaa sitä, niin OSX purkaa 'zip'istä ohjelman jolla asennus hoituu.
-Tämän jälkeen tuplaklikkaa äsken syntynyttä tiedostoa (TODO tmcbeans installer.app tjsp) 
-Seuraa asennus wizardia ja hyväksy tarvittaessa käyttöehdot.
+Tämän jälkeen tuplaklikkaa äsken syntynyttä tiedostoa
+Seuraa asennusohjelmaa ja hyväksy tarvittaessa käyttöehdot.
 
 Mikäli asennusohjelman käynnistys ei tuplaklikkaamalla onnistu, kokeile avata se klikkaamalla sitä 'hiiren oikealla' tai klikkaamalla sitä pitäen option tai control näppäintä pohjassa, ja valitsemalla avautuvasta valikosta Open/Avaa
 
