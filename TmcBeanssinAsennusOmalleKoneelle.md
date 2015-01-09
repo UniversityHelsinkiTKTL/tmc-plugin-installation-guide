@@ -52,9 +52,6 @@ Mikäli asennusohjelman käynnistys ei tuplaklikkaamalla onnistu, kokeile avata 
 
 Linuxilla voit joutua antamaan ohjelmalle suoritus oikeudet (joko `chmod +x tmc-netbeans_hy_tmcbeans-linux.sh` tai klikkaamalla sitä hiiden oikealla, valitsemalla Properties ja sieltä ruksaa "Allow executing file as a program". Tämän jälkeen riippuen käyttöjärjestelmästä, joko tuplaklikkaa asennuspakettia ja se aukeaa, tai suorita se komentoriviltä `./tmc-netbeans_hy_tmcbeans-linux.sh`.
 
-Tarkista, että TMC-> Settings asetuksissa palvelimen osoite on `http://tmc.mooc.fi/hy` ja valitse kurssiksi `k2015-ohpe`.
-
-
 ## NetBeansin käynnistys ja asetusten asettaminen
 
 Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetus ikkunan pitäisi aueta. Saat sen tarvittaessa avattua: NetBeanssissa TMC -> Settings
@@ -63,7 +60,7 @@ Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetus ikkunan pitäisi auet
 
 Käytä tunnuksina äsken luomiasi tunnuksia.
 Tarkista, että palvelimen osoite on http://tmc.mooc.fi/hy
-Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `s2014-ohpe`
+Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `k2015-ohpe`
 
 Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
 
