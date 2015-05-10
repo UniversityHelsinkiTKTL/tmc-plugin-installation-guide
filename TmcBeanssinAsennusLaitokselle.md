@@ -17,7 +17,7 @@ Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetusikkunan pitäisi aueta
 
 Käytä tunnuksina äsken luomiasi tunnuksia.
 Tarkista, että palvelimen osoite on http://tmc.mooc.fi/hy
-Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `k2015-ohpe`
+Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `kesa2015-ohpe`
 
 Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
 
