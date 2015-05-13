@@ -65,3 +65,6 @@ Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `kesa2015
 Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
 
 Valitse ok, ja voit ladata uusia tehtäviä, mikäli niitä on saatavilla.
+
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/sQYq2LISMRU" frameborder="0" allowfullscreen></iframe>
