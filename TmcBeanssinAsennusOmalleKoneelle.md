@@ -66,5 +66,6 @@ Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta
 
 Valitse ok, ja voit ladata uusia tehtäviä, mikäli niitä on saatavilla.
 
+# TMC-Tehtävien tekeminen ja palauttaminen
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/sQYq2LISMRU" frameborder="0" allowfullscreen></iframe>
+<https://youtu.be/sQYq2LISMRU>
