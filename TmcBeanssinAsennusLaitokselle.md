@@ -22,3 +22,7 @@ Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `kesa2015
 Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
 
 Valitse ok, ja voit ladata uusia tehtäviä, mikäli niitä on saatavilla.
+
+# TMC-Tehtävien tekeminen ja palauttaminen
+
+<https://youtu.be/sQYq2LISMRU>
