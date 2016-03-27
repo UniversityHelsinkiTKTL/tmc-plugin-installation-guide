@@ -41,22 +41,27 @@ NOTE: If you have an old version of NetBeans on your computer, we recommend that
 
 If you already have JDK installed, go directly to step 2.
 
-Download the most recent version of JDK "Java SE Development Kit 7uxx" from the address http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html, if you are a Linux user, see the information below!
+Download the most recent version of JDK "Java SE Development Kit 8uxx" from the address http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html, if you are a Linux user, see the information below!
 
 Accept the licence, select a suitable version for you computer and do the installation.
 
 In Windows, the installation procedes similarly as installations of any Windows program.  
-In Mac, the installation resembles installation of any dmg-package. NOTE: you need Mac OS X 10.7.3:n (Lion) or a more recent OS X -version.  Oracle provides detailed information about the installation http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html  
-In most Linux distributions you get JDK directly from the packet management. In Debian based distributions (eg. in Ubuntu) it is  enought to install the package openjdk-7-jdk which can be done in command line with the command sudo apt-get install openjdk-7-jdk -y or by using the Synaptic Package Manager. In the case that your distribution does not provide a suitable JDK, you can do the installation by extracting the .tar.gz-file found on the Oracle page.
+In Mac, the installation resembles installation of any dmg-package. NOTE: you need Mac OS X 10.7.3:n (Lion) or a more recent OS X -version.  Oracle provides detailed information about the installation http://docs.oracle.com/javase/8/docs/webnotes/install/mac/mac-jdk.html  
+In most Linux distributions you get JDK directly from the packet management. In Debian based distributions (eg. in Ubuntu) it is  enought to install the package openjdk-8-jdk which can be done in command line with the command sudo apt-get install openjdk-8-jdk -y or by using the Synaptic Package Manager. In the case that your distribution does not provide a suitable JDK, you can do the installation by extracting the .tar.gz-file found on the Oracle page.
 
 ## STEP 2: INSTALLING NETBEANS
 ### INSTALLING NETBEANS THE EASY WAY, for own computer
 Download the NetBeans/TMC-bundle suitable for your computer by right clicking and selecting "save link as":
 
+**For University of Helsinki**
 [windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)    
 [mac](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)    
 [linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)    
 
+**For MOOC.fi**
+[windows](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-windows.exe)    
+[mac](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-macosx.tgz)    
+[linux](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-linux.sh)    
 Do the installation
 
 In Windows, the installation is done by opening the downloaded exe-file  
@@ -67,7 +72,7 @@ In Ubuntu, for example, the execution permissions can be given using the File br
 In Mac, the installation is done by extracting the contents of the downloaded package and then running the Netbeans with TMC Installer.app. The installer installs TMC-NetBeans to your computer. After the installation, the program is found from the Applications-folder.  
  
 ### INSTALLING TMC-PLUGIN TO EXSISTING NETBEANS INSTALLATION, do this in paja  
-Open NetBeans. Make sure that version you are using is at least 7.2.1. (7.3 or newer is recommendend)  
+Open NetBeans. Make sure that version you are using is at least 8.0.2. (8.1 or newer is recommendend)  
 
 Go to Tools -> Plugins  
 ![NB Plugin -> Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-tools-plugins.jpg "Plugin -> Settings")
@@ -93,8 +98,6 @@ Click continue, when instaler complains that these plugins are not signed.
 
 When installation is complete restart NetBeans  
 ![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-installing-plugin5.jpg "Plugin -> Settings -> Settings")   
-
-
 
 
 
