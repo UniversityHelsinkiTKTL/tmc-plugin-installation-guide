@@ -1,12 +1,15 @@
 ### INSTALLING TMC-PLUGIN TO EXSISTING NETBEANS INSTALLATION, 
-Open NetBeans. Make sure that version you are using is at least 8.0.1.
+Open NetBeans. Make sure that version you are using is at least 8.1.
 
 Go to Tools -> Plugins  
 ![NB Plugin -> Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-tools-plugins.jpg "Plugin -> Settings")
 
 Select tab Settings click Add.  
 Set name to TMC  
-Url to http://update.testmycode.net/tmc-netbeans_mooc/updates.xml  
+
+Url for **MOOC.fi** http://update.testmycode.net/tmc-netbeans_mooc/updates.xml  
+Url for **University of Helsinki students** http://update.testmycode.net/tmc-netbeans_hy/updates.xml  
+
 ![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings-add-tmc-update.jpg "Plugin -> Settings -> Settings")
 
 Select tab Available Plugins, search for TMC It should show only one result. Check checkbox on its row anw and select Install  
