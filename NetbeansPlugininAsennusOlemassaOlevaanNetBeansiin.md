@@ -1,6 +1,6 @@
 ### TMC pluginin asennus olemassa olevaan NetBeanssiin.
 
-Avaa NetBeans. Varmista, että versio, jota käytät on vähintään 8.0
+Avaa NetBeans. Varmista, että versio, jota käytät on vähintään 8.1
 
 Mene Tools -> Plugins
 
