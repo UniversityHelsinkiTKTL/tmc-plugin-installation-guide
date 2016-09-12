@@ -1,6 +1,6 @@
 # Tunnuksen luominen tehtäväjärjestelmään (TMC)
 
-1. Mene osoitteeseen [http://tmc.mooc.fi/hy](http://tmc.mooc.fi/hy)
+1. Mene osoitteeseen [http://tmc.mooc.fi/](http://tmc.mooc.fi/)
 2. Klikkaa oikeassa yläkulmassa linkkiä "Sign up"
 3. Käytä käyttäjätunnuksenasi (Username) opiskelijanumeroasi (opiskelijanumerosi löydät opiskelijakortista ja [weboodin vasemmasta yläreunasta](http://weboodi.helsinki.fi/hy/)). Muuten suorituksesi ei rekisteröidy!
     1. Mikäli loit tunnuksen väärällä nimellä, kerro siitä pajassa, voimme uudelleennimetä tunnuksen tai IRCssä Jamo:lle  (~jamo@irc.jamo.io @IRCnet).
@@ -59,7 +59,7 @@ Kun NetBeans aukeaa ensimmäisen kerran, allaolevan asetus ikkunan pitäisi auet
 ![TMC plugins settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings.jpg "TMC plugins settings")
 
 Käytä tunnuksina äsken luomiasi tunnuksia.
-Tarkista, että palvelimen osoite on http://tmc.mooc.fi/hy
+Tarkista, että palvelimen osoite on http://tmc.mooc.fi/
 Klikkaa "refresh list" ja valitse viereisestä pudotusvalikosta kurssi `hy-s2016-ohpe`
 
 Pidäthän alimman checkboxin ruksattuna - tuet laitoksemme tekemää tutkimusta!
