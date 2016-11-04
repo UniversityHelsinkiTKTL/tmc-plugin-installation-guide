@@ -35,8 +35,6 @@ When installation is complete restart NetBeans
 ## COMPLETING AND SUBMITTING THE PROGRAMMING ASSIGNMENTS
 When you start TMC/NetBeans for the first time, the below window should open. If it does not open, you can find it from the TMC-part of the NetBeans menu bar.  
 
-**For courses at http://mooc.fi make sure that the server url is https://tmc.mooc.fi/mooc**
-
 ![TMC plugins settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings.jpg "TMC plugins settings")  
 
 Give the Username and Password that you gave during registration.  
