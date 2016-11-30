@@ -39,6 +39,6 @@ When you start TMC/NetBeans for the first time, the below window should open. If
 
 Give the Username and Password that you gave during registration.  
 
-Press the button "refresh list" and select from "Current course" s2013-cee  
+Press the button "refresh list" and select from "Current course" the course you want to do.
 
 By pressing "ok" the assignment "projects" are downloaded to your computer.  
