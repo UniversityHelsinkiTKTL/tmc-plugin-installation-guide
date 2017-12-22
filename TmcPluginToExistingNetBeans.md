@@ -7,8 +7,7 @@ Go to Tools -> Plugins
 Select tab Settings click Add.  
 Set name to TMC  
 
-Url for **old MOOC.fi** courses (at the moment all courses at mooc.fi except Cyber Security Base) http://update.testmycode.net/tmc-netbeans_mooc/updates.xml  
-Url for **everyone else** http://update.testmycode.net/tmc-netbeans_hy/updates.xml  
+Set the URL to http://update.testmycode.net/tmc-netbeans_org_mooc/updates.xml  
 
 ![NB Settings](https://www.cs.helsinki.fi/u/jarmoiso/tmcee/tmc-settings-add-tmc-update.jpg "Plugin -> Settings -> Settings")
 
