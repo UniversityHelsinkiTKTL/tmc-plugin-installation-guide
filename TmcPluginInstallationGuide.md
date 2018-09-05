@@ -53,15 +53,9 @@ In most Linux distributions you get JDK directly from the packet management. In 
 ### INSTALLING NETBEANS THE EASY WAY, for own computer
 Download the NetBeans/TMC-bundle suitable for your computer by right clicking and selecting "save link as":
 
-**For University of Helsinki**
-[windows](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-windows.exe)    
-[mac](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-macosx.tgz)    
-[linux](http://update.testmycode.net/installers/tmc-netbeans_hy/tmc-netbeans_hy_tmcbeans-linux.sh)    
-
-**For MOOC.fi**
-[windows](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-windows.exe)    
-[mac](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-macosx.tgz)    
-[linux](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-linux.sh)    
+[windows](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-windows.exe)    
+[mac](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-macosx.tgz)    
+[linux](http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-linux.sh)    
 Do the installation
 
 In Windows, the installation is done by opening the downloaded exe-file  
